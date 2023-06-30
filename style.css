@@ -585,8 +585,11 @@ footer {
 
 
 @media screen and (max-width: 768px) {
+
   nav{
     height: 8%;
+    top: 0;
+    position: fixed
   }
 
   .nav-logo img {
