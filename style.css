@@ -623,7 +623,7 @@ footer {
   .hamburger {
     display: block;
     cursor: pointer;
-    padding-top: 23px;
+    padding-top: 8px;
   }
 
   .hamburger.active .bar:nth-child(2) {
@@ -644,7 +644,7 @@ footer {
     align-items: center;
     flex-direction: column;
     right: -100%;
-    top: 64px;
+    top: 34px;
     gap: 0;
     background-color: rgba(10, 43, 50, 1);
     width: 100%;
